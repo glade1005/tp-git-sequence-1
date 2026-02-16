@@ -24,3 +24,7 @@ void afficherBienvenue();
 
 #endif // FONCTION_BIENVENUE_H
 ```
+## Paramètres
+
+La fonction `afficherBienvenue()` accepte maintenant un paramètre optionnel :
+- `message` : le message à afficher (par défaut: "Bienvenue le monde !")
